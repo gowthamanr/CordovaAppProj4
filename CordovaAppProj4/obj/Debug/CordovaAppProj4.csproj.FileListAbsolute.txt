@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\Bin\Debug\ApplicationIcon.png
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\Bin\Debug\Background.png
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\Bin\Debug\CordovaAppProj4.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\Bin\Debug\CordovaAppProj4.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\Bin\Debug\AppManifest.xaml
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\cordovalib\CordovaView.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\cordovalib\UI\AudioRecorder.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\cordovalib\UI\ImageCapture.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\cordovalib\UI\NotificationBox.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\cordovalib\UI\VideoRecorder.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\MainPage.g.cs
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\CordovaAppProj4.g.resources
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\CordovaAppProj4.dll
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\CordovaAppProj4.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\CordovaAppProj4\CordovaAppProj4\obj\Debug\XapCacheFile.xml
